@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vigilant-mix-344505",
+  "private_key_id": "902856191af0fbc6ade663b014f1679ee117dfd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCW4nnpk4xGrVhh\nAKsnFxPXEzpRFRfXhiJ2wBNp/RjNA7h8rwSINbSDdHUE+8O7Q1NAA4Ki6TXFJ0MZ\n1s8QQgejbsuoVuakynvavOKWDa2SC5+r3p9L+6eTfUHUG0xKO/hTMSj5klX0AeIK\na5+6qV4QSpb5LUkPvqypeFzoHTg7aAoDYrZGdYZWW8YWyR8xxVDmHMqUEDTDK9m3\n9cBPLONrtiTVCEO7/O7wfN8+cDDouVupMvYDukdO9JO9st0ZD1n1/b9c0Kw2DrDL\ndC3sRI6OJlOSRa1B8Oxti1yiQVokw+jqz3sWTa/FfTK40aTGpKaVrckW19FhdOCN\nrxQ1GmK9AgMBAAECggEABU00YOlrDKGzIQdrvB4it5QooKg30/4V0Gvb0sXOnQeE\nMDdbFqkibFsHcJMjE72gG3f0G2LL3Z9NS4dhc64KRCsUs1fIV2J4+xzXblPRNTg8\n1kZmfP4862EDkt8ZrWMRjOTFjo1egUoepeSVsnKYiESCrQMzFb9KpFLDGvHJ48Zs\ngPGDWW6FF1n4d9vG2Aet+vuXa0Pyuff1iKE0ZFd3bfSmPmXSNNe3CeDvBAbcsRC0\niWgz/bQzTpmQJhje5EPxzQzYszrQwPniWJ9jCEm2lwPlT5UNYbZkITYbTeOzFuJb\nL0k/qr6ec28ahxpD8X+HWHDbxlselyeocPQTGu/JYQKBgQDJMhh8y03O67u5A1K0\ntudVxsbx3cxbqNt9Ruj0Wqk79RZkGZO4I/zj+XPCJonzM/FWWn0fililBVASjD+I\nRt0dY+Lsf7XNyTHD+fiWR+4uE8zYORdlOOjhIJsytJXiFU2lMD/zTQwxnVDakhx8\nrzz5ZtGgTwRUqMWAtD7sFfMO4QKBgQC//A+wIonLf0vUuypL7eYtvjD58LppzTlD\n1cXIlkjQd2vXZ+41+Tpy5lzrvNX1OwEmyQ46+8OhXWryICImTvoBGDd6Y/thoXWj\nhxxpkdsLtkziGdsoLtre2S6yK16YpvBoEOSGs/ZnDiAQbDZ4vqpecwNg+09r527N\nCP1r2gRbXQKBgGena34/r6J/SIOU9rMr2BsVAcHyJyrB3/K26aWaX74IErUXiEdC\nIzPAfKb1+/RUOm3myLfLKsg56HrlzoWDHL/bijmVwjB3CzCQREYIYOlUQiDTqP35\nR+FUTyDccKu9lfcY2JmchD+7cMBqrkp+bcd/9VfF3dFP8hDQy+oNlN+BAoGBAI52\nhU2203nmpGbf3Ksrhjs7fyx5rlsEpxHneDU5EB9h/uyBewsiPnU07I8iOcMYXepi\nF+U9HhaIM+woXC8BPBPD3Kc9ujTgk2Mdx7+vNFSkmrjNZwuSeWgU0cn01OWCO7N9\nlZc/xAEFQlXtdx5yngooXsGAu5beziHoIeX+im0hAoGBAIrTi416B5VBvb5Dgquu\nZgM7Fmm0uaInmla7FkGzABHMjMvjIRZtLkr1ls3pRbQjXMfamPJ/5PiVpvu2ESR8\n7LiMCnjBknmFYMT+SkUxdukcW9gl3p+kndJ/BYM0shci48YvTBrR75DIy3UjA4zd\nSeUq7nA+EkKqL3PNRL/DNN/c\n-----END PRIVATE KEY-----\n",
+  "client_email": "joblistings@vigilant-mix-344505.iam.gserviceaccount.com",
+  "client_id": "114728189020501598707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/joblistings%40vigilant-mix-344505.iam.gserviceaccount.com"
+}
