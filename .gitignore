@@ -1,0 +1,6 @@
+# Optimisation
+__pycache__
+
+# Environments
+.env	# Keep when uploading to personal GITHUB		
+.venv
