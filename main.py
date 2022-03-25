@@ -246,7 +246,7 @@ async def jobs(ctx=None, field=None, job_type=None, ordering=None):
 
     #944463840068927572 job-search
     #382867403777769473 Astolbo spam
-    channel = client.get_channel(382867403777769473)    # job-search
+    channel = client.get_channel(944463840068927572)    # job-search
     
     if app_name_list:
         embed = make_embed("Job Listings")
